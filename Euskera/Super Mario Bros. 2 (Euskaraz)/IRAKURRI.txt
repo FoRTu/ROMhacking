@@ -1,0 +1,61 @@
+
+~ [ Super Mario Bros. 2 -Euskaraz-] ~
+
+---------
+Itzulpenaren hizkuntza: Euskara
+Itzultzailea: FoRTu (Ultraheroia-ren laguntzarekin)
+Noiz argitaratua: 2020/10/18
+---------
+
+---------
+Itzulpena nola aplikatu
+---------
+
+Lehenik eta behin jokoaren ROMa behar duzu. horretarako Google erabili hurrengo ezaugarriak dituen ROMa topatzeko... ez da oso zaila ¯\_(ツ)_/¯ .
+
+· ROMaren ezaugarriak:
+  - Izena: Super Mario Bros. 2 (U) (PRG1) [!].nes
+  - Tamaina: 262160 bytes (256 KiB)
+  - CRC32: 6A9637C9
+  - CRC64: 5A51FE241A346CC0
+  - SHA256: 68A65597433FA924DF81F5599D408AB7F663495BCEC2AF2655B5B08B70599CA0
+  - SHA1: C3C2A1EF5B01D1B25E3F1C215ADCF740861E3BFF
+
+Behin ROMa duzunean, itzulpena aplikatzeko 'Lunar IPS' aplikazioa jaitsi:
+
+ - https://fusoya.eludevisibility.org/lips/
+
+"Lunar IPS" aplikazioa zabaldu:
+
+  1.- "Apply IPS Patch" botoia sakatu.
+  2.- Aukeratu itzulpen fitxategia: "Super_Mario_Bros.2_Euskarazko_Itzulpena.ips".
+  3.- Aukeratu jaitsi berri duzun jokoaren ROMa.
+  4.- "The file was successfully patched!" mezua jasotzen baduzu, Zorionak! ROMa itzuli duzu!
+
+---------
+Nola jokatu
+---------
+
+Gomendatzen dudan emuladorea, FCEUX, hurrengo webgunetik jaitsi dezakezu:
+
+http://fceux.com/web/home.html
+
+---------
+Eskerrak
+---------
+
+"Traducciones Wave" gaztelaniara egindako itzulpenari esker lortu dut Euskarazko bertsioa egitea. Eskerrik asko zuen lanagatik!
+
+Wegbunea: https://traduccioneswave.blogspot.com/
+
+---------
+Kontaktuak
+---------
+
+· FoRTu:
+  - Webgunea: https://fortu.io
+  - Twitter: https://twitter.com/FoRTu
+
+· Ultraheroia:
+  - Twitter: https://twitter.com/ultraheroia
+
